@@ -1,2 +1,2 @@
-def sample_code():
-    return "This is sample code"
+def divide(a,b):
+    return a/b
