@@ -1,5 +1,5 @@
 from mcp.server import Server
-from mcp.types import Tool, TextContent, Resource, ResourceTemplate
+from mcp.types import Tool, TextContent, Resource
 import mcp.server.stdio
 import asyncio
 import os
